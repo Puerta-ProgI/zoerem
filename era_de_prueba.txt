@@ -1,0 +1,7 @@
+mkdir {nombre de la carpeta} ->crea una carpeta
+touch {nombre del archivo.formato(txt)} ->crea un archivo
+cd {nombre de la carpeta} ->entra a una carpeta
+cd .. ->sale de la carpeta
+ls ->te muestra un listado de los archivos en una carpeta
+pdw -> te muestra el path
+rm -> borra archivos
