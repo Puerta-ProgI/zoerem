@@ -1,7 +1,33 @@
 mkdir {nombre de la carpeta} ->crea una carpeta
+
 touch {nombre del archivo.formato(txt)} ->crea un archivo
+
 cd {nombre de la carpeta} ->entra a una carpeta
+
 cd .. ->sale de la carpeta
+
 ls ->te muestra un listado de los archivos en una carpeta
+
 pdw -> te muestra el path
+
 rm -> borra archivos
+
+git init -> inicializa el repositorio Git
+
+git config user.name {nombre} -> registra quién está haciendo los cambios
+
+git config user.email "<>" -> registra que no hay un email asignado a ese nombre
+
+explorer . ->abre la carpeta en la que estés en la terminal
+
+code . ->abre Visual Studio Code en la carpeta en la que estés en la terminal
+
+git add . ->suma todos los archivos al repositorio
+
+git status ->mira el estado en el que están los archivos
+
+git commit -m "prueba" ->
+
+git remote add origin https://github.com/Puerta-ProgI/zoerem.git -> vincula el repositorio remoto con el repositorio local
+
+git push -u origin main ->
